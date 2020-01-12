@@ -1,1 +1,3 @@
 # I will write my Russian trip experience on this page
+
+try git stash functyion
